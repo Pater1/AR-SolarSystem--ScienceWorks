@@ -1,0 +1,83 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5450 (ID=0x68f9)
+    Vendor:   ATI
+    VRAM:     1014 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.138 seconds
+desktop: 1776x1000 29Hz; virtual: 1776x2024 at 0,-1024
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Pater1\Documents\SWSS\testBuild_Data\Managed\System.dll (this message is harmless)
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+DllNotFoundException: C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:setApplicationEnvironment (int,int,int)
+  at Vuforia.QCARNativeWrapper.SetApplicationEnvironment (Int32 unityVersionMajor, Int32 unityVersionMinor, Int32 unityVersionChange) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARUnityImpl.SetApplicationEnvironment () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trackable EarthTarget lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12e0 -> priority: 1 
+Trackable EarthTarget lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/.\libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+Fallback handler could not load library C:/Users/Pater1/Documents/SWSS/testBuild_Data/Mono/libC:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+DllNotFoundException: C:/Users/Pater1/Documents/SWSS/testBuild_Data/Plugins/QCARWrapper.dll
+  at (wrapper managed-to-native) Vuforia.QCARNativeWrapper:cameraDeviceStopCamera ()
+  at Vuforia.QCARNativeWrapper.CameraDeviceStopCamera () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.StopCameraDevice () [0x00000] in <filename unknown>:0 
+  at Vuforia.CameraDeviceImpl.Stop () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.StopQCAR () [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
